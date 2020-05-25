@@ -1,0 +1,326 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# create time:26.06.2015 17:17:59
+
+newmtl Model001_Material001
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material002
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material003
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material004
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material005
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material006
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material007
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material008
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material009
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material010
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material011
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material012
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka nami_d.png
+	map_Kd nami_d.png
+
+newmtl Model001_Material013
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material014
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material015
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material016
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material017
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material018
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material019
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material020
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka cellshading_d.png
+	map_Kd cellshading_d.png
+	map_bump nami_n.png
+	bump nami_n.png
+
+newmtl Model001_Material021
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka eyeunder_d.png
+	map_Kd eyeunder_d.png
+
+newmtl Model001_Material022
+	Ns 30.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5500 0.5500 0.5500
+	Kd 0.5500 0.5500 0.5500
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka eye_d.png
+	map_Kd eye_d.png

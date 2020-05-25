@@ -1,1 +1,25 @@
-<p>你好我啊</p>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<style type="text/css">
+			html,body{width: 100%;height: 100%;margin: 0;padding: 0;}
+			div#container {margin:0;padding:0;border:none;width:100%;height:100%;background-color:#EEEEEE;}
+			#video{display: none;}
+		</style>
+	</head>
+	<body oncontextmenu="window.event.returnValue=false;" >
+		<!-- <div id="container"></div> -->
+		<video id="video" width="400" height="400" autoplay loop>
+			<source src="./video/mov_bbb.mp4" type="video/mp4">
+			您的浏览器不支持 HTML5 video 标签。
+		</video>
+		<script src="./js/lib/Tween.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/lib/three.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/lib/OrbitControls.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/lib/DragControls.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/lib/stats.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="./js/demo11.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
